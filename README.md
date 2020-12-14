@@ -1,6 +1,7 @@
 # Artiren.README
 ## Hello!
  - My nickname is Artiren!
+ - [Site](https://artiren.me)
 ## Languages
  - [Java](https://github.com/topics/java)
  - [Python](https://github.com/topics/python)
@@ -10,4 +11,4 @@
  - etc...
 ## Projects
  - Bottle's Adventure (alias)
- - ???
+ - Ria (Discord bot)
