@@ -7,7 +7,7 @@
  - C++
  - [PHP](https://github.com/topics/php)
  - [Go](https://github.com/golang/go)
- - [Javascript](
+ - JavaScript
  - etc...
 ## Projects
- [] \_(^o^)_/
+ [] \\_(^o^)_/
