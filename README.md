@@ -10,4 +10,5 @@
  - JavaScript
  - etc...
 ## Projects
- [] \\_(^o^)_/
+ - C&C
+ - Grayscale
