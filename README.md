@@ -1,6 +1,6 @@
-# Artiren.README
+# Ar.README
 ## Hello!
- - My nickname is Artiren!
+ - My nickname is Ar!
 ## Languages
  - [Java](https://github.com/topics/java)
  - [Python](https://github.com/topics/python)
