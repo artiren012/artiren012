@@ -3,7 +3,6 @@
 아마도 개발자를 꿈꾸는 학생입니다.
 
 ## 사용하는 프로그래밍 언어
-### Github Repositories
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artiren012&layout=compact&theme=dark)](https://github.com/artiren012)
 
 ### Other
