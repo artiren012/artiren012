@@ -1,11 +1,18 @@
 # 아르 (artiren012)
 안녕하세요.  
-아마도 개발자를 꿈꾸는 학생입니다
+아마도 개발자를 꿈꾸는 학생입니다.
 
-## 주 사용 프로그래밍 언어
-경험해보고 간단한 코드는 만들 수 있는 언어는 JavaScript, Python, Java, Go, C++, C#, PHP 정도...? 가 있습니다.  
-~~하지만 여기있는 모든 언어를 잘 쓰진 못합니다~~
+## 사용하는 프로그래밍 언어
+### Github Repositories
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artiren012&layout=compact&theme=dark)](https://github.com/artiren012)
+
+### Other
+ - C++
+ - Python
+ - Javascript
+ - etc...
+
+공부하는 겸 여러가지 언어들을 사용하고, 여러가지 프로그램들을 제작해보고 있습니다.
 
 ## SNS
-[유튜브 (일상)](https://www.youtube.com/channel/UCwUi3CoIpHuYtzXCVwj9fEQ)  
-[유튜브 (개발)](https://www.youtube.com/channel/UCEQvO3X4owjXH7iFUXc2PBg)
+[Youtube](https://www.youtube.com/channel/@ar012)
