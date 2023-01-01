@@ -14,4 +14,4 @@
 공부하는 겸 여러가지 언어들을 사용하고, 여러가지 프로그램들을 제작해보고 있습니다.
 
 ## SNS
-[Youtube](https://www.youtube.com/channel/@ar012)
+[Youtube](https://www.youtube.com/@ar012)
