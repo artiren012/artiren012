@@ -3,7 +3,8 @@ Hello. / 안녕하세요.
 https://artiren012.github.io
 
 ## Projects
-### Ria / 리아 (Discord bot / 디스코드 봇)
+### Ria / 리아
+리아는 종합 디스코드 봇입니다.  
 [![Github](https://img.shields.io/badge/Ria-black?style=flat&logo=Github&logoColor=white)](https://github.com/artiren012/Ria)
 ### ??? (???)
 ## SNS
