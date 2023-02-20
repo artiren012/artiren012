@@ -1,3 +1,3 @@
 # 아르 (Ar / artiren012)
-Hello. / 안녕하세요.  
+Hello.  
 https://artiren012.github.io
