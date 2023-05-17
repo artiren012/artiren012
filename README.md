@@ -1,6 +1,30 @@
-# 안녕하세요!
-개발자가 되고싶은 평범한 대한민국의 학생입니다!  
-Javascript, Python, C 등등 여러 언어들을 공부하고 있습니다.   
-최근에는 게임 위주로 이것저것 해보고 있습니다.  
-- [깃허브 페이지 (영문)](https://artiren012.github.io)
+# About
+취미로 개발을 하는 학생입니다!
+
+# Programming Language
+- Javascript
+- C, C++
+- Python
+- Java
+
+## Studying
+- C, C++
+- Javascript
+
+## Want to learn
+- Rust
+- Go
+- Kotlin
+- Swift
+- 기타 등등...
+
+# Projects
+- White (Mobile Game) - 개인 개발
+- Ria (Discord Bot) - 게임 위주의 종합 디스코드 봇
+- 기타 등등...
+
+# Links
+- [홈페이지](https://artiren012.github.io)
 - [유튜브](https://youtube.com/@artiren012)
+
+~~그래서 이건 어떻게 꾸미나요~~
