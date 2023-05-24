@@ -19,8 +19,8 @@
 - 기타 등등...
 
 # Projects
-- White (Mobile Game) - 개인 개발
-- Ria (Discord Bot) - 게임 위주의 종합 디스코드 봇
+- [White (Mobile Game) - 개인 개발](https://play.google.com/store/apps/details?id=com.arti.white)
+- [Ria (Discord Bot) - 게임 위주의 종합 디스코드 봇](https://github.com/artiren012/Ria)
 - 기타 등등...
 
 # Links
