@@ -1,5 +1,6 @@
 # About
-취미로 개발을 하는 학생입니다!
+취미로 개발을 하는 학생입니다!  
+(Korean, Student)
 
 # Programming Language
 - Javascript
