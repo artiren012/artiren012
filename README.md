@@ -1,5 +1,5 @@
 # About
-개발을 하고 있는 어느 학생...입니다 (Korean, Student)
+개발을 좋아하는 학생...입니다 (Korean, Student)
 
 # Programming Language
 - **Javascript** (most used)
@@ -26,7 +26,7 @@
 [Github](https://github.com/artiren012/Ria) - 게임 위주의 종합 디스코드 봇을 목표로 개발하고 있습니다.  
 
 ## etc
-그 외 기타 등등...
+그 외에도 개인적으로 거창하진 않은, 작은 프로젝트들에 참여했고, 참여하고 있습니다.
 
 # Links
 - [홈페이지](https://artiren012.github.io)
