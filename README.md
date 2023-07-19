@@ -1,5 +1,6 @@
 # About
-이것저것 개발하는 학생입니다. (Korean, Student)
+이것저것 개발하는 학생입니다.  
+(Korean, Student)
 
 # Programming
 - **Javascript**
