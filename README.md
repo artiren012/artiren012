@@ -2,11 +2,11 @@
 이것저것 개발하는 학생입니다.  
 
 # Programming
-- **Javascript**
-- **C, C++**
+- Javascript
+- C, C++
+- C#
 - Python
-- Java  
-Javascript를 주로 사용하고, 최근에 C언어를 공부하고 있습니다.
+- Java
 
 # Projects
 - White (Mobile Game): [Google Play](https://play.google.com/store/apps/details?id=com.arti.white) - 단순한 탄막피하기 게임입니다.
