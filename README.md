@@ -1,8 +1,8 @@
 # About
 이것저것 개발하는 학생입니다.  
+최근에는 유니티를 이용한 게임 개발과 Node.js 기반 앱 프로그래밍을 하고 있습니다.
 
-# Programming
-사용하는/할 수 있는 프로그래밍 언어입니다.
+# Programming Language
 - Javascript
 - C, C++
 - C#
