@@ -10,8 +10,11 @@ Korean (한국어), English (using Google translate?)
 
 ## Programming Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artiren012&layout=compact&theme=dark)  
-**Studying** Javascript, C, C++  
-**Using** Node.js, Java, Python, etc...
+**Studying** 
+  - Javascript, C, C++
+**Using**
+  - Unity, Android Studio
+  - Node.js
 
 ## Projects (Public)
 ### White: [Google Play](https://play.google.com/store/apps/details?id=com.arti.white)
