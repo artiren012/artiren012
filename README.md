@@ -1,9 +1,9 @@
 # 아르 (artiren012)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=artiren012&show_icons=true&theme=dark&rank_icon=github)
 ## About Me
-이것저것 만드는 대학생입니다. 개인적인 작업과 여러 프로젝트 등에 참여하고 있습니다.  
-I make games and other useless things. In addition to my personal project, I also participating in other projects.  
-Personal Page: [English](https://artiren012.github.io) / [한국어](https://artiren012.github.io/ko-kr/)
+이것저것 만드는 대학생입니다.  
+I make games and other useless things.  
+Personal Page: [English](https://artiren012.github.io) / [한국어](https://artiren012.github.io/ko/)
 
 ## Language
 - Korean (한국어)
