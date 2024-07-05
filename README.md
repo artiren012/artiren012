@@ -1,9 +1,7 @@
-# 아르 (artiren012)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=artiren012&show_icons=true&theme=dark&rank_icon=github)
 ## About Me
 이것저것 만드는 대학생입니다.  
 I make games and other useless things.  
-Personal Page: [English](https://artiren012.github.io) / [한국어](https://artiren012.github.io/ko/)
 
 ## Language
 - Korean (한국어)
@@ -23,8 +21,3 @@ Personal Page: [English](https://artiren012.github.io) / [한국어](https://art
 단순한 탄막피하기 게임입니다.
 ### Ria: [Github](https://github.com/artiren012/Ria)
 디스코드 봇입니다.
-
-## Contact
-Email: artiren012@gmail.com  
-Twitter: [Link](https://twitter.com/artiren012)  
-Youtube: [Link](https://youtube.com/@ar012)
